@@ -92,7 +92,7 @@
 		"engagement": {
 			"pageViews": 3.5,
 			"timeOnSite": "00:01:57",
-			"bouncerate": "40%"
+			"bounceRate": "40%"
 			},
 		"userType": ["shoppers", "people who love social"],
 		"usability":"easy to use",
@@ -129,7 +129,7 @@
 		"engagement": {
 			"pageViews": null,
 			"timeOnSite": null,
-			"bouncerate": null
+			"bounceRate": null
 			},
 		"userType": ["shoppers", "people who love social"],
 		"usability":"easy to use",
@@ -165,7 +165,7 @@
 		"engagement": {
 			"pageViews": 2.53,
 			"timeOnSite": "00:02:25",
-			"bouncerate": "76%"
+			"bounceRate": "76%"
 			},
 		"userType": ["shoppers", "people who love social"],
 		"usability":"easy to use",
@@ -203,7 +203,7 @@
 		"engagement": {
 			"pageViews": 2.53,
 			"timeOnSite": "00:02:25",
-			"bouncerate": "76%"
+			"bounceRate": "76%"
 			},
 		"userType": "children",
 		"usability":"easy to use",
