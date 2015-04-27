@@ -1,222 +1,247 @@
 {
-	"products": {
-	  "product": [
-		{
-		"title": "irecycle",
-		"url": "www.iRecycle.com",
-		"mission": "iRecycle is the premiere application for finding local, convenient recycling opportunities when you are on the go or at home",
-		"features": [
-		"Navigate recycle spot by material type (description of the materials)",
-		"Find the location and contact info of recycle center",
-		"news and lifestyle"
-		],
-		"socialInfluence":{
-			"Twitter": 97200,
-			"Google+": 55744,
-			"Facebook": 100850
-		},
-		"engagement": null,
-		"userType": null,
-		"usability":"easy to use",
-		"industryRanking":{
-			"people and society":1737
-	      },
-	     "price":"free",
-	     "SEO":{
-	     	"searchTraffic":{
-	     		"percentage": "60%",
-	     		"mostKeywords": ["earth911","office plants", "recycling"]
-	     		},
-	     	"referringSites":["Calrecycle.ca,gov", "EPA.gov", "www.epa.gov"],
-	     	"social": null,
-	     	"directSearch": null
-
-	     },
-	     "userBase": 850000
-		},
-		{
-		"title": "Brightnest",
-		"url":"https://brightnest.com",
-		"mission":null,
-		"features": [
-		"home quiz",
-		"create an account",
-		"community support",
-		"videos",
-		"FAQ"
-		],
-		"socialInfluence":{
-			"Twitter": 3500,
-			"Google+": null,
-			"Facebook": 1100
-		},
-		"engagement": {
-			"pageViews": 2.3,
-			"timeOnSite": "00:02:57"
-
-			},
-		"userType": ["home owner", "consumers", "real estate agents"],
-		"usability":"passable",
-		"industryRanking":{
-			"Business & industry":44603
-	      },
-	     "price":"free",
-	     "SEO":{
-	     	"searchTraffic":null,
-	     	"referringSites":null,
-	     	"social": null,
-	     	"directSearch": null
-
-	     },
-	     "userBase": 2500
-		},
-		{
-		"title": "joulebug",
-		"url":"https://joulebug.com/",
-		"mission":"JouleBug is the easy way to make your everyday habits more sustainable, at home, work, and play. Discover how you and your friends can use resources—without using them up, with this newly designed app.",
-		"features": [
-		"get credits when you do good behavior ",
-		"Links to unity account ",
-		"save money",
-		"buzz when you do something sustainable",
-		"challenge",
-		"Share your difference",
-		"Track your progress",
-		"ask friends to join"
-		],
-		"socialInfluence":{
-			"Twitter": 400,
-			"Google+": null,
-			"Facebook": 292
-		},
-		"engagement": {
-			"pageViews": 3.5,
-			"timeOnSite": "00:01:57",
-			"bounceRate": "40%"
-			},
-		"userType": ["shoppers", "people who love social"],
-		"usability":"easy to use",
-		"industryRanking":{
-			"Science & Environment":3230
-	      },
-	     "price":"free",
-	     "SEO":{
-	     	"searchTraffic":null,
-	     	"referringSites":null,
-	     	"social": null,
-	     	"directSearch": null
-
-	     },
-	     "userBase": 2500
-		},
-		{
-		"title": "ZCO2",
-		"url":"https://play.google.com/store/apps/details?id=com.zco2&hl=en",
-		"mission":"The ZCO2 is the first platform of sustainability campaigns on social networks. In it you help combat climate change fast, simple and fun way, offsetting emissions of greenhouse gases (GHG) products or consumed or services adopting sustainable practices. . All of this is sponsored by participating companies works like this: - You read the QR-Code or enter the code in the app or enter the page ZCO2 Facebook - lacks its emissions of greenhouse gases with carbon credits UN stamp - Receives certificate that proves that you've done your part against climate change - Accumulates Zs points to compete with other users, earn badges and helps the environment By participating you show that you care about sustainability and can set an example for your friends, forming a front to overcome climate change. ZCO2 - a more sustainable world, each time a post",
-		"features": [
-		"find a service and business and use QR code",
-		"offset the CO2 emission with carbon credit sponsered by company",
-		"Get badges or rewards ",
-		"buzz when you do something sustainable",
-		"compare with other people",
-		"Zs are the points you earn to help the participating companies to offset their emissions of greenhouse gases. Each Z equals 1 kg of CO2e that stopped being emitted into the atmosphere"
-		],
-		"socialInfluence":{
-			"Twitter": 7,
-			"Google+": null,
-			"Facebook": null
-		},
-		"engagement": {
-			"pageViews": null,
-			"timeOnSite": null,
-			"bounceRate": null
-			},
-		"userType": ["shoppers", "people who love social"],
-		"usability":"easy to use",
-		"industryRanking":null,
-	     "price":"free",
-	     "SEO":{
-	     	"searchTraffic":null,
-	     	"referringSites":null,
-	     	"social": null,
-	     	"directSearch": null
-
-	     },
-	     "userBase": null
-		},
-		{
-		"title": "Barcoo",
-		"url":"http://www.barcoo.com/",
-		"mission":"provides you as a Product Guide with independent product information. barcoo also includes an exciting consumer magazine that provides you daily with practical tips on health , nutrition and beauty",
-		"features": [
-		"lifestyle tips",
-		"search",
-		"blog",
-		"ask questions",
-		"take quiz",
-		"share",
-		"give location"
-		],
-		"socialInfluence":{
-			"Twitter": 1766,
-			"Google+": null,
-			"Facebook": 29256
-		},
-		"engagement": {
-			"pageViews": 2.53,
-			"timeOnSite": "00:02:25",
-			"bounceRate": "76%"
-			},
-		"userType": ["shoppers", "people who love social"],
-		"usability":"easy to use",
-		"industryRanking":{
-			"computer electronics": "789"
-		},
-	     "price":"free",
-	     "SEO":{
-	     	"searchTraffic":{
-	     		"percentage": "40.56%",
-	     		"mostKeywords": ["Barcoo","Apfelsaft", "Cashew Apfel"]
-	     		},
-	     	"referringSites":{"percentage":"10.26%",
-	     		"mostKeywords": ["amazon.de","twitter.com", "buzzfeed.com"]
-	     		},
-	     	"social": "65.75%",
-	     	"directSearch": null
-	     },
-	     "userBase": 130000
-		},
-				{
-		"title": "Eco Action Trumps",
-		"url":"http://ecoactiontrumps.co.uk/",
-		"mission":"The ultimate mission back here at eco action trump towers is to develop a funding model that will allow us to get eco action trumps packs into all primary schools in the country.  We aim to do this at no cost to the school.",
-		"features": [
-		"select actions",
-		"oppenents",
-		"physical packs"
-		],
-		"socialInfluence":{
-			"Twitter": 192,
-			"Google+": null,
-			"Facebook": 40
-		},
-		"engagement": {
-			"pageViews": 2.53,
-			"timeOnSite": "00:02:25",
-			"bounceRate": "76%"
-			},
-		"userType": "children",
-		"usability":"easy to use",
-		"industryRanking":null,
-	     "price":"paid",
-	     "SEO":{
-	     	"searchTraffic":null,
-	     	"referringSites":null,
-	     	"social": null,
-	     	"directSearch": null
-	     },
-	     "userBase": null
-		}
-	  ]
-	} 
+   "products":{
+      "product":[
+         {
+            "title":"irecycle",
+            "url":"www.iRecycle.com",
+            "mission":"iRecycle is the premiere application for finding local, convenient recycling opportunities when you are on the go or at home",
+            "features":[
+               "Navigate recycle spot by material type (description of the materials)",
+               "Find the location and contact info of recycle center",
+               "news and lifestyle"
+            ],
+            "socialInfluence":{
+               "Twitter":97200,
+               "Google+":55744,
+               "Facebook":100850
+            },
+            "engagement":null,
+            "userType":null,
+            "usability":"easy to use",
+            "industryRanking":{
+               "people and society":1737
+            },
+            "price":"free",
+            "SEO":{
+               "searchTraffic":{
+                  "percentage":"60%",
+                  "mostKeywords":[
+                     "earth911",
+                     "office plants",
+                     "recycling"
+                  ]
+               },
+               "referringSites":[
+                  "Calrecycle.ca,gov",
+                  "EPA.gov",
+                  "www.epa.gov"
+               ],
+               "social":null,
+               "directSearch":null
+            },
+            "userBase":850000
+         },
+         {
+            "title":"Brightnest",
+            "url":"https://brightnest.com",
+            "mission":null,
+            "features":[
+               "home quiz",
+               "create an account",
+               "community support",
+               "videos",
+               "FAQ"
+            ],
+            "socialInfluence":{
+               "Twitter":3500,
+               "Google+":null,
+               "Facebook":1100
+            },
+            "engagement":{
+               "pageViews":2.3,
+               "timeOnSite":"00:02:57"
+            },
+            "userType":[
+               "home owner",
+               "consumers",
+               "real estate agents"
+            ],
+            "usability":"passable",
+            "industryRanking":{
+               "Business & industry":44603
+            },
+            "price":"free",
+            "SEO":{
+               "searchTraffic":null,
+               "referringSites":null,
+               "social":null,
+               "directSearch":null
+            },
+            "userBase":2500
+         },
+         {
+            "title":"joulebug",
+            "url":"https://joulebug.com/",
+            "mission":"JouleBug is the easy way to make your everyday habits more sustainable, at home, work, and play. Discover how you and your friends can use resources—without using them up, with this newly designed app.",
+            "features":[
+               "get credits when you do good behavior ",
+               "Links to unity account ",
+               "save money",
+               "buzz when you do something sustainable",
+               "challenge",
+               "Share your difference",
+               "Track your progress",
+               "ask friends to join"
+            ],
+            "socialInfluence":{
+               "Twitter":400,
+               "Google+":null,
+               "Facebook":292
+            },
+            "engagement":{
+               "pageViews":3.5,
+               "timeOnSite":"00:01:57",
+               "bounceRate":"40%"
+            },
+            "userType":[
+               "shoppers",
+               "people who love social"
+            ],
+            "usability":"easy to use",
+            "industryRanking":{
+               "Science & Environment":3230
+            },
+            "price":"free",
+            "SEO":{
+               "searchTraffic":null,
+               "referringSites":null,
+               "social":null,
+               "directSearch":null
+            },
+            "userBase":2500
+         },
+         {
+            "title":"ZCO2",
+            "url":"https://play.google.com/store/apps/details?id=com.zco2&hl=en",
+            "mission":"The ZCO2 is the first platform of sustainability campaigns on social networks. In it you help combat climate change fast, simple and fun way, offsetting emissions of greenhouse gases (GHG) products or consumed or services adopting sustainable practices. . All of this is sponsored by participating companies works like this: - You read the QR-Code or enter the code in the app or enter the page ZCO2 Facebook - lacks its emissions of greenhouse gases with carbon credits UN stamp - Receives certificate that proves that you've done your part against climate change - Accumulates Zs points to compete with other users, earn badges and helps the environment By participating you show that you care about sustainability and can set an example for your friends, forming a front to overcome climate change. ZCO2 - a more sustainable world, each time a post",
+            "features":[
+               "find a service and business and use QR code",
+               "offset the CO2 emission with carbon credit sponsered by company",
+               "Get badges or rewards ",
+               "buzz when you do something sustainable",
+               "compare with other people",
+               "Zs are the points you earn to help the participating companies to offset their emissions of greenhouse gases. Each Z equals 1 kg of CO2e that stopped being emitted into the atmosphere"
+            ],
+            "socialInfluence":{
+               "Twitter":7,
+               "Google+":null,
+               "Facebook":null
+            },
+            "engagement":{
+               "pageViews":null,
+               "timeOnSite":null,
+               "bounceRate":null
+            },
+            "userType":[
+               "shoppers",
+               "people who love social"
+            ],
+            "usability":"easy to use",
+            "industryRanking":null,
+            "price":"free",
+            "SEO":{
+               "searchTraffic":null,
+               "referringSites":null,
+               "social":null,
+               "directSearch":null
+            },
+            "userBase":null
+         },
+         {
+            "title":"Barcoo",
+            "url":"http://www.barcoo.com/",
+            "mission":"provides you as a Product Guide with independent product information. barcoo also includes an exciting consumer magazine that provides you daily with practical tips on health , nutrition and beauty",
+            "features":[
+               "lifestyle tips",
+               "search",
+               "blog",
+               "ask questions",
+               "take quiz",
+               "share",
+               "give location"
+            ],
+            "socialInfluence":{
+               "Twitter":1766,
+               "Google+":null,
+               "Facebook":29256
+            },
+            "engagement":{
+               "pageViews":2.53,
+               "timeOnSite":"00:02:25",
+               "bounceRate":"76%"
+            },
+            "userType":[
+               "shoppers",
+               "people who love social"
+            ],
+            "usability":"easy to use",
+            "industryRanking":{
+               "computer electronics":"789"
+            },
+            "price":"free",
+            "SEO":{
+               "searchTraffic":{
+                  "percentage":"40.56%",
+                  "mostKeywords":[
+                     "Barcoo",
+                     "Apfelsaft",
+                     "Cashew Apfel"
+                  ]
+               },
+               "referringSites":{
+                  "percentage":"10.26%",
+                  "mostKeywords":[
+                     "amazon.de",
+                     "twitter.com",
+                     "buzzfeed.com"
+                  ]
+               },
+               "social":"65.75%",
+               "directSearch":null
+            },
+            "userBase":130000
+         },
+         {
+            "title":"Eco Action Trumps",
+            "url":"http://ecoactiontrumps.co.uk/",
+            "mission":"The ultimate mission back here at eco action trump towers is to develop a funding model that will allow us to get eco action trumps packs into all primary schools in the country.  We aim to do this at no cost to the school.",
+            "features":[
+               "select actions",
+               "oppenents",
+               "physical packs"
+            ],
+            "socialInfluence":{
+               "Twitter":192,
+               "Google+":null,
+               "Facebook":40
+            },
+            "engagement":{
+               "pageViews":2.53,
+               "timeOnSite":"00:02:25",
+               "bounceRate":"76%"
+            },
+            "userType":"children",
+            "usability":"easy to use",
+            "industryRanking":null,
+            "price":"paid",
+            "SEO":{
+               "searchTraffic":null,
+               "referringSites":null,
+               "social":null,
+               "directSearch":null
+            },
+            "userBase":null
+         }
+      ]
+   }
 }
